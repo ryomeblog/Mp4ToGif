@@ -1,0 +1,14 @@
+{
+    "name": "Mp4ToGif",
+    "version": "1.0.0",
+    "description": "Convert MP4 to GIF",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@ffmpeg-installer/ffmpeg": "^1.1.0",
+        "@ffprobe-installer/ffprobe": "^2.0.0",
+        "fluent-ffmpeg": "^2.1.2"
+    }
+}
