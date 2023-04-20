@@ -1,9 +1,6 @@
 # Mp4ToGif
 MP4ファイルをGifファイルに変換する。
 
-
-# Mp4ToM3U8Converter
-
 ## 事前準備
 以下の事前準備が必要。
 
